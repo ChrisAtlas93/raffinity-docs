@@ -1,0 +1,23 @@
+{
+  "name": "raffinity-docs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "User documentation for Raffinity, a white-label competition platform for UK operators.",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "check:dashes": "node scripts/check-dashes.mjs",
+    "check": "npm run check:dashes && npm run build"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@fontsource-variable/figtree": "^5.3.0",
+    "@fontsource-variable/geist": "^5.3.0",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.44"
+  }
+}

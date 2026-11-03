@@ -1,0 +1,268 @@
+/* Raffinity brand: ink #15242c and vermilion #f15935. Fonts: Geist for headings, Figtree for text. */
+
+:root {
+  --raf-ink: #15242c;
+  --raf-ink-2: #1b2d36;
+  --raf-ink-3: #22343e;
+  --raf-vermilion: #f15935;
+  --raf-vermilion-text: #bd351a;
+  --raf-vermilion-tint: #fff7f4;
+  --raf-soft: #f3f6f8;
+  --raf-line: #e3e9ed;
+  --raf-muted: #52626c;
+
+  --vp-font-family-base: 'Figtree Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --vp-font-family-mono: ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace;
+  --raf-font-heading: 'Geist Variable', 'Figtree Variable', ui-sans-serif, system-ui, sans-serif;
+
+  /* Links and accents. The darker vermilion is used for text on white so it stays readable. */
+  --vp-c-brand-1: var(--raf-vermilion-text);
+  --vp-c-brand-2: #a52d15;
+  --vp-c-brand-3: var(--raf-vermilion);
+  --vp-c-brand-soft: rgba(241, 89, 53, 0.12);
+
+  --vp-c-text-1: var(--raf-ink);
+  --vp-c-text-2: #3a4a53;
+  --vp-c-text-3: var(--raf-muted);
+  --vp-c-divider: var(--raf-line);
+  --vp-c-bg-soft: var(--raf-soft);
+
+  --vp-button-brand-bg: var(--raf-ink);
+  --vp-button-brand-border: var(--raf-ink);
+  --vp-button-brand-text: #ffffff;
+  --vp-button-brand-hover-bg: var(--raf-ink-3);
+  --vp-button-brand-hover-border: var(--raf-ink-3);
+  --vp-button-brand-hover-text: #ffffff;
+  --vp-button-brand-active-bg: var(--raf-ink-2);
+  --vp-button-brand-active-border: var(--raf-ink-2);
+  --vp-button-brand-active-text: #ffffff;
+
+  --vp-home-hero-name-color: var(--raf-vermilion);
+  --vp-custom-block-tip-bg: var(--raf-vermilion-tint);
+  --vp-custom-block-tip-border: rgba(241, 89, 53, 0.3);
+}
+
+.dark {
+  --vp-c-bg: #101c22;
+  --vp-c-bg-alt: var(--raf-ink);
+  --vp-c-bg-elv: var(--raf-ink-2);
+  --vp-c-bg-soft: var(--raf-ink-2);
+  --vp-c-text-1: #f1f5f7;
+  --vp-c-text-2: #c5d2d9;
+  --vp-c-text-3: #8fa3ad;
+  --vp-c-divider: #2a3d47;
+  --vp-c-gutter: #0b1418;
+
+  --vp-c-brand-1: #ff7a5c;
+  --vp-c-brand-2: #ff9279;
+  --vp-c-brand-3: var(--raf-vermilion);
+  --vp-c-brand-soft: rgba(241, 89, 53, 0.18);
+
+  --vp-button-brand-bg: var(--raf-vermilion);
+  --vp-button-brand-border: var(--raf-vermilion);
+  --vp-button-brand-text: var(--raf-ink);
+  --vp-button-brand-hover-bg: #ff7a5c;
+  --vp-button-brand-hover-border: #ff7a5c;
+  --vp-button-brand-hover-text: var(--raf-ink);
+
+  --vp-custom-block-tip-bg: rgba(241, 89, 53, 0.12);
+}
+
+/* Headings */
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3,
+.vp-doc h4,
+.VPHero .name,
+.VPHero .text,
+.VPSidebar .text,
+.VPNavBarTitle .title {
+  font-family: var(--raf-font-heading);
+  letter-spacing: -0.02em;
+}
+
+.VPNavBarTitle .title {
+  font-weight: 700;
+  letter-spacing: -0.04em;
+}
+
+.vp-doc h1 {
+  font-weight: 700;
+}
+
+.vp-doc h2 {
+  border-top: none;
+  margin-top: 40px;
+  padding-top: 0;
+  font-weight: 650;
+}
+
+.vp-doc p,
+.vp-doc li {
+  line-height: 1.7;
+}
+
+.vp-doc a {
+  text-underline-offset: 3px;
+}
+
+/* Keyboard focus, like the marketing site */
+:focus-visible {
+  outline: 2px solid var(--raf-vermilion-text);
+  outline-offset: 2px;
+}
+
+.dark :focus-visible {
+  outline-color: #ff7a5c;
+}
+
+/* Screenshots */
+.vp-doc img {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+}
+
+.vp-doc img[src$='.svg'] {
+  border: none;
+}
+
+/* Wide tables scroll sideways on a phone instead of breaking the page */
+.vp-doc table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+/* Home page */
+.VPHome .VPHero .tagline {
+  max-width: 34rem;
+  font-size: 1.15rem;
+  line-height: 1.6;
+  color: var(--vp-c-text-2);
+}
+
+/* Same side padding and width as the cards below, so the heading lines up with them */
+.home-question {
+  padding: 24px 24px 0;
+}
+
+.home-question-inner {
+  max-width: 1152px;
+  margin: 0 auto;
+}
+
+.home-question h2 {
+  margin: 0 0 20px;
+  font-family: var(--raf-font-heading);
+  font-size: 1.6rem;
+  font-weight: 650;
+  letter-spacing: -0.02em;
+}
+
+@media (min-width: 640px) {
+  .home-question {
+    padding: 32px 48px 0;
+  }
+}
+
+@media (min-width: 960px) {
+  .home-question {
+    padding: 40px 64px 0;
+  }
+}
+
+.home-question + .VPFeatures {
+  padding-top: 0;
+}
+
+.home-question h2 {
+  padding: 0;
+  border: none;
+}
+
+.VPFeatures .VPLink.link {
+  min-height: 100%;
+}
+
+.VPFeature {
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg);
+  transition: border-color 0.2s, transform 0.2s;
+}
+
+.VPFeature:hover {
+  border-color: var(--raf-vermilion);
+  transform: translateY(-2px);
+}
+
+.VPFeature .title {
+  font-family: var(--raf-font-heading);
+  font-weight: 650;
+}
+
+/* 404 */
+.not-found {
+  max-width: 34rem;
+  margin: 0 auto;
+  padding: 96px 24px 64px;
+}
+
+.not-found-code {
+  margin: 0;
+  font-family: var(--raf-font-heading);
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: var(--raf-vermilion);
+  line-height: 1;
+}
+
+.not-found h1 {
+  margin: 12px 0 16px;
+  font-family: var(--raf-font-heading);
+  font-size: 1.8rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.not-found p {
+  line-height: 1.7;
+  color: var(--vp-c-text-2);
+}
+
+.not-found-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: center;
+  margin-top: 24px;
+}
+
+.not-found-button {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 8px;
+  background: var(--vp-button-brand-bg);
+  color: var(--vp-button-brand-text);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.not-found-button:hover {
+  background: var(--vp-button-brand-hover-bg);
+}
+
+.not-found-link {
+  font-weight: 600;
+  color: var(--vp-c-brand-1);
+}
+
+/* Easier to tap on a phone */
+@media (max-width: 768px) {
+  .vp-doc {
+    font-size: 16px;
+  }
+
+  .VPSidebar .link .text {
+    padding: 4px 0;
+  }
+}
