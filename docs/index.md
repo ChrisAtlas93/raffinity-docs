@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Raffinity Docs
+title: Guides for running your competition site
 description: Plain-English guides for running your competition site on Raffinity. Create competitions, take payments, draw winners and look after your customers.
 
 hero:
