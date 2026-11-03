@@ -55,7 +55,14 @@ const categories: { text: string; slug: string; items?: { text: string; link: st
       { text: 'Show a popup', link: '/offers-and-promotions/popups' },
     ],
   },
-  { text: 'Draws and winners', slug: 'draws-and-winners' },
+  {
+    text: 'Draws and winners',
+    slug: 'draws-and-winners',
+    items: [
+      { text: 'Close a competition and draw the winner', link: '/draws-and-winners/run-a-draw' },
+      { text: 'What happens after a draw', link: '/draws-and-winners/after-the-draw' },
+    ],
+  },
   { text: 'Orders and refunds', slug: 'orders-and-refunds' },
   { text: 'Payments', slug: 'payments' },
   { text: 'Wallets and withdrawals', slug: 'wallets-and-withdrawals' },
