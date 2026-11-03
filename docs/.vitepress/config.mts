@@ -114,7 +114,17 @@ const categories: { text: string; slug: string; items?: { text: string; link: st
       { text: 'Deal with stop marketing requests', link: '/support-and-complaints/stop-marketing' },
     ],
   },
-  { text: 'Your website', slug: 'your-website' },
+  {
+    text: 'Your website',
+    slug: 'your-website',
+    items: [
+      { text: 'Edit your pages with the site builder', link: '/your-website/edit-pages-in-the-builder' },
+      { text: 'Choose your template, colours and logo', link: '/your-website/template-colours-and-logo' },
+      { text: 'Edit your wording, FAQs and legal pages', link: '/your-website/wording-faqs-and-legal' },
+      { text: 'Show a holding page and set your company details', link: '/your-website/holding-page-and-company-details' },
+      { text: 'Let customers install your site as an app', link: '/your-website/your-app' },
+    ],
+  },
   {
     text: 'Marketing and tracking',
     slug: 'marketing-and-tracking',
