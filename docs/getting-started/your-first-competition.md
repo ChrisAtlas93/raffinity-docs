@@ -46,8 +46,8 @@ Open your site and find the competition. Look at it on a phone as well as a comp
 
 ## When it ends
 
-1. Ticket sales stop at the end time you set. To stop sooner, open the **More actions** menu and choose **Close Now**.
-2. Draw the winner. See [Draws and winners](/draws-and-winners/).
+1. The competition closes by itself at the end time you set, or as soon as it sells out. To stop sooner, open the **More actions** menu and choose **Close Now**.
+2. Draw the winner. If you switched on **Enable autodraw**, the winner is picked automatically when the competition closes. Otherwise draw it yourself. See [Draws and winners](/draws-and-winners/).
 3. If you offered prizes that need sending, see **Prize Claims** under **Competitions**.
 
 ## What your customers will see

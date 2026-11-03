@@ -17,7 +17,7 @@ You choose which features your site offers to customers. You might want instant 
 1. Open **Help & Tools** in the admin menu, then **Setup Wizard**.
 2. Go to the step called **Choose your features**.
 3. Switch each feature on or off.
-4. Use the wizard's buttons to carry on and save your choices.
+4. Click **Save** at the top of the wizard.
 
 ![The Choose your features step](/screenshots/setup-wizard-features.png)
 
@@ -41,6 +41,10 @@ You choose which features your site offers to customers. You might want instant 
 | Withdrawals | Customers taking Cash Wallet money out to their bank. |
 
 Out of the box, **Top-ups** are off. **Withdrawals**, **Convert cash to Site Credit** and **Pay with Site Credit** are on.
+
+## Change the wallet and reward switches in Business Rules
+
+The wallet and reward features also have switches in **Settings**, then **Business Rules**, then **Wallet Rules**. These include points, referrals, cashback, the welcome bonus, loyalty rewards, paying with Site Credit, top-ups, converting cash to Site Credit and withdrawals. Switch them there when you are already setting the rules for them. See [Wallets and withdrawals](/wallets-and-withdrawals/).
 
 ## What your customers will see
 

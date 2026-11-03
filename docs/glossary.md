@@ -19,7 +19,7 @@ The words used in your admin and in these guides. You can rename **Cash Wallet**
 
 **Chargeback.** When a customer asks their bank to take a card payment back. You record it on the order, and it pauses that customer's withdrawals until you have looked into it.
 
-**Closed.** A competition status. Ticket sales have stopped and the competition is waiting for its draw.
+**Closed.** A competition status. Ticket sales have stopped, either because the end time passed or the competition sold out, and it is waiting for its draw.
 
 **Collect the Sets.** A game feature where customers collect instant wins into sets, and completing a set earns a prize.
 

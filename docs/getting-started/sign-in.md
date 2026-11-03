@@ -22,6 +22,10 @@ You sign in to your admin with the email address and password on your staff acco
 
 ![The staff sign-in page](/screenshots/staff-sign-in.png)
 
+## If you forget your password
+
+Click **Forgot password?** on the sign-in form. We email you a link to choose a new one.
+
 ## If the code does not work
 
 - The code is six digits and lasts 10 minutes.

@@ -21,6 +21,10 @@ The Setup Wizard is a guided set of questions that sets up your site for you. It
 
 ![The first screen of the Setup Wizard](/screenshots/setup-wizard-welcome.png)
 
+## Save as you go
+
+You do not have to finish in one go. Click **Save** at the top of the wizard at any time. You will see "Saved", and your changes are live on your website straight away.
+
 ## Work through the steps
 
 Each step asks a few questions, then you move on to the next. The steps come in this order.
@@ -53,9 +57,12 @@ The choices you make in the wizard are used on your live site, such as your colo
 ## Tips
 
 - Take your time over the draws, prizes and policies steps. The wording you choose is shown to customers.
-- Do not worry about getting everything perfect. Every answer can be changed later in your normal settings.
+- Do not worry about getting everything perfect. You can reopen the wizard and change any answer whenever you want.
 
 ## Common questions
+
+**Can I come back to the wizard later?**
+Yes. You can reopen it whenever you want and go back through the steps. Change what you need, then click **Save**.
 
 **Do I have to run the wizard?**
 No. Most of what it covers can also be changed directly in the admin, in the screens named in these guides. The wizard is a faster way to do it in order.
