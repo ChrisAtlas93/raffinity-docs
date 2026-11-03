@@ -50,7 +50,7 @@ These are actions that involve money or personal details. Each is off until you 
 
 ![What moderators can do](/screenshots/moderator-actions.png)
 
-These are checked when the action is done, not just when the button is shown. If a moderator tries something they are not allowed to do, they see "You do not have permission to do this. An admin can allow it in Business & Site Settings."
+These are checked when the action is done, as well as when the button is shown. If a moderator tries something they are not allowed to do, they see "You do not have permission to do this. An admin can allow it in Business & Site Settings."
 
 ## Ask your team for a sign-in code
 
