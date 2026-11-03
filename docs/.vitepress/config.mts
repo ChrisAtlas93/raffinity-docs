@@ -21,9 +21,6 @@ const categories: { text: string; slug: string; items?: { text: string; link: st
     slug: 'competitions',
     items: [
       { text: 'Create a competition', link: '/competitions/create-a-competition' },
-      { text: 'Set the ticket price, number of tickets and limits', link: '/competitions/set-ticket-price-and-limits' },
-      { text: 'Add an entry question', link: '/competitions/add-an-entry-question' },
-      { text: 'Schedule and publish a competition', link: '/competitions/schedule-and-publish' },
       { text: 'Choose who can enter', link: '/competitions/choose-who-can-enter' },
       { text: 'Add pictures and categories', link: '/competitions/add-pictures-and-categories' },
       { text: 'Feature a competition on your home page', link: '/competitions/feature-on-your-home-page' },

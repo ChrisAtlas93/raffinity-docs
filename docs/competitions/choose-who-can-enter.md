@@ -41,6 +41,5 @@ No. It only changes who can buy.
 
 ## Related guides
 
-- [Schedule and publish a competition](/competitions/schedule-and-publish)
-- [Create a competition](/competitions/create-a-competition)
+- [Create a competition](/competitions/create-a-competition#set-the-dates-and-publish)
 - [Your website](/your-website/)

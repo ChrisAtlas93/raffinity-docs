@@ -56,5 +56,5 @@ The order is free, so no money is taken.
 ## Related guides
 
 - [Set up free postal entry](/competitions/free-postal-entry)
-- [Set the ticket price, number of tickets and limits](/competitions/set-ticket-price-and-limits)
+- [Create a competition](/competitions/create-a-competition#set-the-price-number-of-tickets-and-limits)
 - [Orders and refunds](/orders-and-refunds/)

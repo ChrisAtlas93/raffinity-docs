@@ -9,10 +9,7 @@ Everything about building and running a competition: the details, tickets and pr
 
 ## Build a competition
 
-- [Create a competition](/competitions/create-a-competition)
-- [Set the ticket price, number of tickets and limits](/competitions/set-ticket-price-and-limits)
-- [Add an entry question](/competitions/add-an-entry-question)
-- [Schedule and publish a competition](/competitions/schedule-and-publish)
+- [Create a competition](/competitions/create-a-competition). Details, entry question, price and limits, sale, Early Bird and Multibuy prices, dates and publishing.
 - [Choose who can enter](/competitions/choose-who-can-enter)
 - [Add pictures and categories](/competitions/add-pictures-and-categories)
 - [Feature a competition on your home page](/competitions/feature-on-your-home-page)

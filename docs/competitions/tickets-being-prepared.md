@@ -53,10 +53,8 @@ Reload the competition page and check the note again. If it still says **Ticket 
 You can open it, but you cannot publish it until the tickets are ready.
 
 **Why can I not lower Total tickets?**
-Because the tickets are still being prepared, or because tickets have sold. See [Set the ticket price, number of tickets and limits](/competitions/set-ticket-price-and-limits).
+Because the tickets are still being prepared, or because tickets have sold. See [Create a competition](/competitions/create-a-competition#set-the-price-number-of-tickets-and-limits).
 
 ## Related guides
 
 - [Create a competition](/competitions/create-a-competition)
-- [Schedule and publish a competition](/competitions/schedule-and-publish)
-- [Set the ticket price, number of tickets and limits](/competitions/set-ticket-price-and-limits)

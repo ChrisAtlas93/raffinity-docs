@@ -58,5 +58,4 @@ The **Duplicate** action is in the menu for each competition in the list.
 ## Related guides
 
 - [Create a competition](/competitions/create-a-competition)
-- [Schedule and publish a competition](/competitions/schedule-and-publish)
 - [Why a competition says it is preparing tickets](/competitions/tickets-being-prepared)
