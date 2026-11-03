@@ -43,7 +43,6 @@ On each competition page, your free entry address and terms appear under **Rules
 
 - Treat postal entries the same as paid entries. They should have the same chance of winning.
 - Keep a record of every postal entry you receive.
-- If you run instant wins, ask your legal adviser how postal entries should be handled for them.
 
 ## Common questions
 
@@ -51,7 +50,7 @@ On each competition page, your free entry address and terms appear under **Rules
 Not at the moment. The terms are the same on every competition.
 
 **Do postal entrants need an account?**
-Tickets are given to a customer account by email address. See [Give tickets to customers](/competitions/give-tickets-to-customers).
+Yes. Tickets are given to an existing customer account, using its email address. If a postal entrant has no account yet, ask them to register on your site first. See [Give tickets to customers](/competitions/give-tickets-to-customers).
 
 ## Related guides
 

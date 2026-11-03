@@ -10,7 +10,7 @@ Ticket Allocation lets you give tickets to one or more customers without them pa
 ## Before you start
 
 - You need to be an admin.
-- Know the email address each customer used to register.
+- Each customer must already have an account on your site. Use the email address they registered with. If someone has no account yet, ask them to register first.
 - Know which competition and how many tickets for each.
 
 ## Give the tickets

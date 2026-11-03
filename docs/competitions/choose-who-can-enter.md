@@ -25,7 +25,9 @@ By default every customer can buy tickets. You can also give people who use your
 
 ## What your customers will see
 
-Customers who are not using the app cannot buy a competition that is limited to the app. The check is made when they try to buy, so it cannot be got round by hiding buttons.
+On a competition that is limited to the app, the competition page shows a content box telling customers they need to download the app to enter. The box has buttons showing how to download or get the app.
+
+Customers who are not using the app cannot buy. The check is made when they try to buy, so it cannot be got round by hiding buttons.
 
 ## Tips
 

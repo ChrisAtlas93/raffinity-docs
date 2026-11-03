@@ -35,7 +35,9 @@ Categories group your competitions, for example Cash, Cars or Holidays. Customer
 
 ## Delete a category
 
-Click **Delete** beside the category and confirm. Check the **Competitions** column first, so you know how many competitions are in it.
+You can only delete a category that is empty. Check the **Competitions** column. If the number is above 0, the **Delete** button is greyed out, and pointing at it tells you how many competitions are still in the category.
+
+To empty a category, open each competition in it and change its **Categories** (see [Add pictures and categories](/competitions/add-pictures-and-categories)). When the count reaches 0, click **Delete** and confirm.
 
 ## What your customers will see
 
@@ -45,6 +47,7 @@ Categories appear as tabs on your home page, in your sort order. Customers click
 
 - Keep the list short. A handful of clear categories works better than many.
 - A category with no live competitions has nothing to show, so think about whether it is needed.
+- You can also delete a category from its edit page. The same rule applies.
 
 ## Common questions
 

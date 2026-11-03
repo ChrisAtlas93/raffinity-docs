@@ -40,7 +40,7 @@ The **Status** has four choices.
 
 You have two choices.
 
-- **Scheduled publish.** Pick a time in this box. The competition moves from Draft to Active by itself at that time.
+- **Scheduled publish.** Pick a time in this box. The competition moves from Draft to Active by itself at that time. This is the only thing that publishes a draft for you. A draft that only has a future **Start time** stays a draft until you set it to **Active** yourself.
 - **Active with a future start time.** Customers can see the competition and a "Starting soon" countdown, but they cannot buy until the start time. Your site opens it for sale at that moment.
 
 When you pick a future start time, the form may set the status back to Draft. If you want the countdown to show, change **Status** to **Active** after you choose the time.
