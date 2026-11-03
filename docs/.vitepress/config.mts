@@ -80,7 +80,15 @@ const categories: { text: string; slug: string; items?: { text: string; link: st
       { text: 'Deal with a chargeback or held credit', link: '/payments/chargebacks-and-held-credit' },
     ],
   },
-  { text: 'Wallets and withdrawals', slug: 'wallets-and-withdrawals' },
+  {
+    text: 'Wallets and withdrawals',
+    slug: 'wallets-and-withdrawals',
+    items: [
+      { text: 'Understand the wallet and set your wallet rules', link: '/wallets-and-withdrawals/wallet-rules' },
+      { text: 'Manage wallets and top-ups', link: '/wallets-and-withdrawals/manage-wallets-and-topups' },
+      { text: 'Approve and pay withdrawals', link: '/wallets-and-withdrawals/withdrawals' },
+    ],
+  },
   { text: 'Customers', slug: 'customers' },
   { text: 'Player protection', slug: 'player-protection' },
   { text: 'Support and complaints', slug: 'support-and-complaints' },
