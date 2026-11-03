@@ -143,7 +143,9 @@ The first tier runs first. Each tier must cost more than the one before (a small
 
 ### How the offers work together
 
-A customer pays the lowest of the Early Bird, sale and Multibuy price, never two of them on the same ticket. A promo code cannot be used on tickets that have an Early Bird price.
+- **Early Bird.** Each Early Bird ticket costs its Early Bird price, which is worked out from the regular ticket price. If the sale or Multibuy price is lower, the customer pays that instead. Early Bird is never added on top of another discount on the same ticket.
+- **Sale and Multibuy.** These work together. A Multibuy bracket starts from the price customers would otherwise pay, so while a sale is running, a percentage Multibuy takes its percentage off the sale price. A fixed Multibuy price is never higher than the current selling price.
+- **Promo codes.** A promo code cannot be used on tickets at an Early Bird price. It cannot be combined with a Multibuy price unless you have switched on **Allow promo codes on top**. On a competition that has a sale price, a promo code only works if the code itself is set to allow that.
 
 ## Set the dates and publish
 
