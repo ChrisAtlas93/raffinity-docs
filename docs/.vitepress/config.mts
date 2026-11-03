@@ -124,8 +124,22 @@ const categories: { text: string; slug: string; items?: { text: string; link: st
       { text: 'Connect your email marketing tool and push notifications', link: '/marketing-and-tracking/email-and-push' },
     ],
   },
-  { text: 'Emails', slug: 'emails' },
-  { text: 'Reports', slug: 'reports' },
+  {
+    text: 'Emails',
+    slug: 'emails',
+    items: [
+      { text: 'Brand your emails and set up sending', link: '/emails/brand-and-send-emails' },
+      { text: 'Edit the emails your customers and staff receive', link: '/emails/edit-your-emails' },
+    ],
+  },
+  {
+    text: 'Reports',
+    slug: 'reports',
+    items: [
+      { text: 'Open and use your reports', link: '/reports/open-and-use-reports' },
+      { text: 'What each report shows', link: '/reports/what-each-report-shows' },
+    ],
+  },
   { text: 'Your team and settings', slug: 'your-team-and-settings' },
 ]
 

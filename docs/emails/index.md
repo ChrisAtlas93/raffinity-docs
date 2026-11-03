@@ -7,4 +7,7 @@ description: Brand your emails, set up sending, edit the emails customers receiv
 
 The emails your site sends to customers and to your team.
 
-Guides for this section are being written. Use the search at the top of the page to find what you need in the meantime, or go back to [the home page](/).
+## Emails
+
+- [Brand your emails and set up sending](/emails/brand-and-send-emails). From address, logo, colours and connecting Resend or another provider.
+- [Edit the emails your customers and staff receive](/emails/edit-your-emails). Switch emails on or off, change wording, choose recipients and see every email.
