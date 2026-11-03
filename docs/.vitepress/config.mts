@@ -45,7 +45,16 @@ const categories: { text: string; slug: string; items?: { text: string; link: st
       { text: 'Run a leaderboard and give bonus points', link: '/instant-wins-and-games/leaderboards-and-bonus-points' },
     ],
   },
-  { text: 'Offers and promotions', slug: 'offers-and-promotions' },
+  {
+    text: 'Offers and promotions',
+    slug: 'offers-and-promotions',
+    items: [
+      { text: 'Set up sale, Early Bird and Multibuy prices', link: '/offers-and-promotions/sale-early-bird-multibuy' },
+      { text: 'Boost instant wins with Amplify', link: '/offers-and-promotions/amplify' },
+      { text: 'Create promo codes', link: '/offers-and-promotions/promo-codes' },
+      { text: 'Show a popup', link: '/offers-and-promotions/popups' },
+    ],
+  },
   { text: 'Draws and winners', slug: 'draws-and-winners' },
   { text: 'Orders and refunds', slug: 'orders-and-refunds' },
   { text: 'Payments', slug: 'payments' },

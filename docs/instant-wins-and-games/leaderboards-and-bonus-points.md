@@ -5,7 +5,7 @@ description: Rank customers by points won from instant wins, reset the board dai
 
 # Run a leaderboard and give bonus points
 
-A leaderboard ranks customers on a competition by points they win from instant wins. It can run for the whole competition or reset every day, with Cash Wallet prizes for the top places. Bonus points are a separate setting that lets customers earn more points on a competition.
+A leaderboard ranks customers on a competition by points they win from instant wins. These are separate from the loyalty points customers earn when they spend. It can run for the whole competition or reset every day, with Cash Wallet prizes for the top places. Bonus points are a separate setting that gives customers extra loyalty points on a competition.
 
 ## Before you start
 
@@ -48,12 +48,12 @@ Open **Competitions**, then **Leaderboard Winners**. The page is titled "Leaderb
 ## Give bonus points on a competition
 
 1. On the same **Games & engagement** tab, find the **Bonus points** section.
-2. Type a **Bonus Points Multiplier**. For example, 2 means double points on this competition.
+2. Type a **Bonus Points Multiplier**. For example, 2 means double loyalty points on this competition.
 3. Click **Save changes**.
 
 ![The Bonus points section](/screenshots/bonus-points-section.png)
 
-This works with your customer **Points** feature, where customers earn points as they spend and can swap them for Site Credit. See [Switch features on and off](/getting-started/switch-features-on-and-off).
+This only affects customers' loyalty points, the points they earn as they spend and can swap for Site Credit. It does not change leaderboard scores. The **Points** feature needs to be switched on. See [Switch features on and off](/getting-started/switch-features-on-and-off).
 
 ## What your customers will see
 
