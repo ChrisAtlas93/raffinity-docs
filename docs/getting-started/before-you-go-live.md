@@ -71,7 +71,6 @@ If you have been using a holding page:
 
 While the holding page is on, nobody except staff can browse your site, sign in or register. Staff can still sign in using the "Team login" link on it. A coming soon page does not switch itself off when its launch date arrives. You must switch it off.
 
-![The Holding Page section of Business & Site Settings](/screenshots/holding-page-settings.png)
 
 ## What your customers will see
 
