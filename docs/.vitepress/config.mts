@@ -89,11 +89,41 @@ const categories: { text: string; slug: string; items?: { text: string; link: st
       { text: 'Approve and pay withdrawals', link: '/wallets-and-withdrawals/withdrawals' },
     ],
   },
-  { text: 'Customers', slug: 'customers' },
-  { text: 'Player protection', slug: 'player-protection' },
-  { text: 'Support and complaints', slug: 'support-and-complaints' },
+  {
+    text: 'Customers',
+    slug: 'customers',
+    items: [
+      { text: 'Find and manage customers', link: '/customers/find-and-manage-customers' },
+      { text: 'Export a customer\'s data or delete their account', link: '/customers/export-and-delete' },
+    ],
+  },
+  {
+    text: 'Player protection',
+    slug: 'player-protection',
+    items: [
+      { text: 'How player protection works', link: '/player-protection/how-it-works' },
+      { text: 'Change a customer\'s spending controls and review welfare flags', link: '/player-protection/spend-controls-and-welfare' },
+      { text: 'Set when players are flagged', link: '/player-protection/protection-settings' },
+    ],
+  },
+  {
+    text: 'Support and complaints',
+    slug: 'support-and-complaints',
+    items: [
+      { text: 'Answer messages and handle complaints', link: '/support-and-complaints/messages-and-complaints' },
+      { text: 'Deal with stop marketing requests', link: '/support-and-complaints/stop-marketing' },
+    ],
+  },
   { text: 'Your website', slug: 'your-website' },
-  { text: 'Marketing and tracking', slug: 'marketing-and-tracking' },
+  {
+    text: 'Marketing and tracking',
+    slug: 'marketing-and-tracking',
+    items: [
+      { text: 'Count visits and connect ad platforms', link: '/marketing-and-tracking/connect-tracking' },
+      { text: 'Build tracked links and record ad spend', link: '/marketing-and-tracking/tracked-links-and-ad-spend' },
+      { text: 'Connect your email marketing tool and push notifications', link: '/marketing-and-tracking/email-and-push' },
+    ],
+  },
   { text: 'Emails', slug: 'emails' },
   { text: 'Reports', slug: 'reports' },
   { text: 'Your team and settings', slug: 'your-team-and-settings' },

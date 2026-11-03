@@ -7,4 +7,7 @@ description: Find, add, ban and delete customers, and answer personal data reque
 
 Looking after your customers' accounts.
 
-Guides for this section are being written. Use the search at the top of the page to find what you need in the meantime, or go back to [the home page](/).
+## Customer accounts
+
+- [Find and manage customers](/customers/find-and-manage-customers). Search, the customer page, adding and banning.
+- [Export a customer's data or delete their account](/customers/export-and-delete). Personal data requests and deleting an account.

@@ -7,4 +7,7 @@ description: Answer contact messages, handle complaints and deal with stop marke
 
 Where customer messages and complaints arrive, and what to do with them.
 
-Guides for this section are being written. Use the search at the top of the page to find what you need in the meantime, or go back to [the home page](/).
+## Support
+
+- [Answer messages and handle complaints](/support-and-complaints/messages-and-complaints). Contact Messages and Complaints.
+- [Deal with stop marketing requests](/support-and-complaints/stop-marketing). What happens automatically and what you must do yourself.
