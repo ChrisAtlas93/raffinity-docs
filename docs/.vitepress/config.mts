@@ -3,7 +3,19 @@ import { defineConfig } from 'vitepress'
 // Each category in the order an operator meets it. Add a guide by listing it under `items` (text, link).
 // Category pages (index.md) always exist; guides are added one category at a time.
 const categories: { text: string; slug: string; items?: { text: string; link: string }[] }[] = [
-  { text: 'Getting started', slug: 'getting-started' },
+  {
+    text: 'Getting started',
+    slug: 'getting-started',
+    items: [
+      { text: 'Find your way around the admin', link: '/getting-started/welcome-to-your-admin' },
+      { text: 'Sign in to your admin', link: '/getting-started/sign-in' },
+      { text: 'Run the Setup Wizard', link: '/getting-started/run-the-setup-wizard' },
+      { text: 'Switch features on and off', link: '/getting-started/switch-features-on-and-off' },
+      { text: 'Read your Overview page', link: '/getting-started/your-overview-page' },
+      { text: 'Create your first competition', link: '/getting-started/your-first-competition' },
+      { text: 'Before you go live', link: '/getting-started/before-you-go-live' },
+    ],
+  },
   { text: 'Competitions', slug: 'competitions' },
   { text: 'Instant wins and games', slug: 'instant-wins-and-games' },
   { text: 'Offers and promotions', slug: 'offers-and-promotions' },

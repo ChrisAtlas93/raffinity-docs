@@ -1,45 +1,23 @@
 ---
 title: Getting started
-description: Your path from a new Raffinity site to your first live competition, and a tour of the admin menu.
+description: Your path from a new Raffinity site to your first live competition, with guides for signing in, the Setup Wizard, features and going live.
 ---
 
 # Getting started
 
-This is the path most operators follow, from a new site to a first live competition. Each step will link to its own guide as the guides are published. Until then, use the search at the top of the page.
+This is the path most operators follow, from a new site to a first live competition. Work through the guides in order, or jump to the one you need.
 
 ## Your path
 
-1. **Sign in to your admin.** Go to your site address followed by `/admin` and sign in with your staff email and password. If your site asks for a sign-in code, we email you a six digit code to type in.
-2. **Run the Setup Wizard.** In the admin menu, open **Help & Tools**, then **Setup Wizard**. It asks about your business, contact details, colours, template, draws, policies, features, emails, payments and wallet.
-3. **Choose your features.** The wizard has a "Choose your features" step. Switch on only what you want to offer, such as instant wins, mini games, Collect the Sets, leaderboards, points, referrals, cashback and the customer wallet.
-4. **Set up payments.** Open **Settings**, then **Payments**, and add the details for the card provider you use (Cashflows or DNA Payments). Raffinity can help you with this.
-5. **Set up your emails.** Open **Settings**, then **Email**. Add your branding, then set up how emails are sent.
-6. **Create your first competition.** Open **Competitions**, then **Competitions**, then **New competition**.
-7. **Check your site.** Look at your competition on your live site, on a phone as well as a computer.
-8. **Go live.** Switch off the holding page if you are using one (in **Settings**, then **Business & Site Settings**, section **Holding Page**).
+1. [Find your way around the admin](/getting-started/welcome-to-your-admin). A tour of the menu and who can see what.
+2. [Sign in to your admin](/getting-started/sign-in). Your address, your password and the emailed sign-in code.
+3. [Run the Setup Wizard](/getting-started/run-the-setup-wizard). Business details, look, draws, policies, emails and wallet in one guided path.
+4. [Switch features on and off](/getting-started/switch-features-on-and-off). Choose what your site offers.
+5. [Read your Overview page](/getting-started/your-overview-page). Your daily glance.
+6. [Create your first competition](/getting-started/your-first-competition). From a blank form to a winner.
+7. [Before you go live](/getting-started/before-you-go-live). A checklist to work through before you take real money.
 
-## The admin menu at a glance
-
-The menu on the left of your admin is arranged in groups.
-
-| Menu | What it is for |
-| --- | --- |
-| Overview | A daily glance at sales, orders, new customers and things that need you. |
-| Orders | Every order, with tabs for the ones that need attention. |
-| Reports | Opens your reporting dashboard on your site, in a new tab. |
-| Media Library | Your uploaded pictures. |
-| Competitions | Competitions, categories, instant wins, prize claims, leaderboard winners, ticket allocation and mini game themes. |
-| Customers | Customer accounts, spend controls and wallets. |
-| Payments | Withdrawals, top-ups, card payments, card refunds, held credit and chargebacks. |
-| Support & Safety | Contact messages, complaints, player welfare and stop marketing requests. |
-| Marketing | Promo codes, popups, ads and tracking, and messaging. |
-| Website | Pages, site wording, branding and appearance, and the trust bar. |
-| Settings | Business and site settings, payments, business rules and email. |
-| Help & Tools | The Setup Wizard. |
-
-Some items only appear for some people. Admins see everything described in these guides. Moderators see only what the owner has switched on, and a few screens are for the Raffinity team only. Each guide says who can use it.
-
-## Browse the guides
+## Browse the rest of the guides
 
 - [Competitions](/competitions/)
 - [Instant wins and games](/instant-wins-and-games/)

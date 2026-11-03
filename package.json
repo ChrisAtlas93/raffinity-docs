@@ -6,9 +6,10 @@
   "description": "User documentation for Raffinity, a white-label competition platform for UK operators.",
   "scripts": {
     "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
+    "build": "node scripts/make-placeholders.mjs && vitepress build docs",
     "preview": "vitepress preview docs",
     "check:dashes": "node scripts/check-dashes.mjs",
+    "placeholders": "node scripts/make-placeholders.mjs",
     "check": "npm run check:dashes && npm run build"
   },
   "engines": {
