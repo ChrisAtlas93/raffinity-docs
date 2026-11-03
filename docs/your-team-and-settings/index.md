@@ -7,4 +7,11 @@ description: Staff roles, what moderators can do, staff sign-in codes and your b
 
 Who on your team can do what, and the settings that apply across your whole site.
 
-Guides for this section are being written. Use the search at the top of the page to find what you need in the meantime, or go back to [the home page](/).
+## Your team
+
+- [Staff roles and who can do what](/your-team-and-settings/staff-roles). Admin, moderator and super admin, and how team members are added.
+- [Choose what moderators can do and turn on sign-in codes](/your-team-and-settings/moderator-permissions). The moderator switches and emailed sign-in codes.
+
+## Settings
+
+- [A tour of Business & Site Settings](/your-team-and-settings/site-settings-tour). What each section does, and where to read more.

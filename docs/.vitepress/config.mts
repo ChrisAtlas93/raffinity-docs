@@ -150,7 +150,15 @@ const categories: { text: string; slug: string; items?: { text: string; link: st
       { text: 'What each report shows', link: '/reports/what-each-report-shows' },
     ],
   },
-  { text: 'Your team and settings', slug: 'your-team-and-settings' },
+  {
+    text: 'Your team and settings',
+    slug: 'your-team-and-settings',
+    items: [
+      { text: 'Staff roles and who can do what', link: '/your-team-and-settings/staff-roles' },
+      { text: 'Choose what moderators can do and turn on sign-in codes', link: '/your-team-and-settings/moderator-permissions' },
+      { text: 'A tour of Business & Site Settings', link: '/your-team-and-settings/site-settings-tour' },
+    ],
+  },
 ]
 
 const sidebar = [
