@@ -63,8 +63,23 @@ const categories: { text: string; slug: string; items?: { text: string; link: st
       { text: 'What happens after a draw', link: '/draws-and-winners/after-the-draw' },
     ],
   },
-  { text: 'Orders and refunds', slug: 'orders-and-refunds' },
-  { text: 'Payments', slug: 'payments' },
+  {
+    text: 'Orders and refunds',
+    slug: 'orders-and-refunds',
+    items: [
+      { text: 'Find and read an order', link: '/orders-and-refunds/find-and-read-orders' },
+      { text: 'Cancel and refund an order', link: '/orders-and-refunds/cancel-and-refund' },
+    ],
+  },
+  {
+    text: 'Payments',
+    slug: 'payments',
+    items: [
+      { text: 'Set up card payments', link: '/payments/set-up-card-payments' },
+      { text: 'Check card payments and refunds', link: '/payments/check-card-payments' },
+      { text: 'Deal with a chargeback or held credit', link: '/payments/chargebacks-and-held-credit' },
+    ],
+  },
   { text: 'Wallets and withdrawals', slug: 'wallets-and-withdrawals' },
   { text: 'Customers', slug: 'customers' },
   { text: 'Player protection', slug: 'player-protection' },

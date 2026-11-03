@@ -7,4 +7,8 @@ description: Set up card payments and keep an eye on card payments, card refunds
 
 How customers pay by card, and the screens where you check on payments and refunds.
 
-Guides for this section are being written. Use the search at the top of the page to find what you need in the meantime, or go back to [the home page](/).
+## Card payments
+
+- [Set up card payments](/payments/set-up-card-payments). Connect Cashflows or DNA Payments and go live.
+- [Check card payments and refunds](/payments/check-card-payments). Statuses, Check again, and refunds that need a person.
+- [Deal with a chargeback or held credit](/payments/chargebacks-and-held-credit). Record and close chargebacks, and release held money.

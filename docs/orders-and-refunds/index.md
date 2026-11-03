@@ -1,10 +1,13 @@
 ---
 title: Orders and refunds
-description: Find an order, cancel or refund it, and deal with orders that need attention.
+description: Find an order, read it, and cancel or refund it in the right way.
 ---
 
 # Orders and refunds
 
 Everything you do with a customer's order after they have paid, including the different kinds of refund.
 
-Guides for this section are being written. Use the search at the top of the page to find what you need in the meantime, or go back to [the home page](/).
+## Orders
+
+- [Find and read an order](/orders-and-refunds/find-and-read-orders). Tabs, filters, the order page, orders that need attention and unpaid orders.
+- [Cancel and refund an order](/orders-and-refunds/cancel-and-refund). Which refund to use, bulk refunds and goodwill credits.
