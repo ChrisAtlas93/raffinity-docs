@@ -37,7 +37,7 @@ The words used in your admin and in these guides. You can rename **Cash Wallet**
 
 **Held credit.** Cash Wallet money that a customer can see but cannot withdraw or convert yet, for example after a duplicate payment or a card refund that the bank refused. You release it or refund it to the card.
 
-**Holding page.** A page that replaces your whole site while you are down for maintenance or have not launched yet.
+**Holding page.** A page that replaces your whole site while you are down for maintenance or have not launched yet. Only staff can get past it, using the "Team login" link.
 
 ## I to M
 

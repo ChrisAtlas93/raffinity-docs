@@ -67,9 +67,9 @@ Make sure everyone who needs access has an account with the right role. Only Raf
 If you have been using a holding page:
 
 1. Open **Settings**, then **Business & Site Settings**.
-2. Under **Holding Page**, switch off **Show the holding page**.
+2. Under **Holding Page**, switch off **Show the holding page**. The page itself is titled "Site Settings Page".
 
-A coming soon page does not switch itself off when its launch date arrives. You must switch it off.
+While the holding page is on, nobody except staff can browse your site, sign in or register. Staff can still sign in using the "Team login" link on it. A coming soon page does not switch itself off when its launch date arrives. You must switch it off.
 
 ![The Holding Page section of Business & Site Settings](/screenshots/holding-page-settings.png)
 

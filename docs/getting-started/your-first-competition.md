@@ -17,12 +17,14 @@ This guide takes you through a first competition from start to finish. It is a s
 
 1. In the admin menu, open **Competitions**, then **Competitions**.
 2. Click **New competition**.
-3. On the **Details** tab, type a **Name** and a **Description**.
+3. On the **Details** tab, type a **Name** and a **Description**. A red star beside a label means you must fill it in.
 4. Open the **Tickets & pricing** tab. Set the ticket price, the total number of tickets and the maximum tickets per person. The maximum per person must be filled in.
-5. In the panel on the side, under **Schedule & Status**, choose the dates:
+5. In the panel on the side, under **Schedule & Status**, fill in the three required dates:
    - **Start time**, when ticket sales begin.
    - **End time**, when ticket sales end.
-   - **Draw date**, when you will draw the winner.
+   - **Draw date**, when you will draw the winner. It can be the same as the end time.
+
+   **Number of winners** is already set to 1. Leave it as it is for a single prize.
 6. Add a **Featured image** in the panel on the side.
 7. Click **Create**.
 

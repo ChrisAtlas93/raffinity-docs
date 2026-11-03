@@ -19,9 +19,11 @@ Sign in (see [Sign in to your admin](/getting-started/sign-in)) and look at the 
 1. **Overview.** Your daily glance at sales, orders and things that need you. See [Your Overview page](/getting-started/your-overview-page).
 2. **Orders.** Every order, with tabs for the ones that need attention.
 3. **Reports.** Opens your reporting dashboard on your site, in a new tab. Admins only.
-4. **Media Library.** The pictures you have uploaded.
+4. **Media.** The pictures you have uploaded.
 
-Below those are the groups.
+At the very top of the page there is also a dark bar with a **Switch to Website** link and a few live figures.
+
+Below the first four items are the groups.
 
 | Group | What is in it |
 | --- | --- |

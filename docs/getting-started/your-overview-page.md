@@ -21,7 +21,7 @@ The Overview page is the first thing you see when you sign in. It shows how your
 
 ## Read each block
 
-**How we're doing.** Four figures: **Sales today**, **Orders today**, **New customers** and **Customer credit held**. Customer credit held is the total money your customers hold in their wallets.
+**How we're doing.** Four figures: **Sales today**, **Orders today**, **New customers** and **Customer credit held**. Customer credit held is the total money your customers hold in their wallets, split into Site Credit and Cash Wallet.
 
 **Revenue trend.** A chart of your revenue. You can switch between the last 14 days and the last 30 days.
 
@@ -50,7 +50,7 @@ Click a card to go straight to the screen where you deal with it.
 ## Look out for the banners
 
 - **The holding page is on.** Your customers see a holding page instead of your site.
-- **Test settings are on.** Some test settings are switched on. Make sure these are off before you take real money.
+- **Test settings are on.** The message says the test payment gateway or developer tools are allowed on your site, and to turn them off before taking real money. There is a **Payments** link in the banner. Ask Raffinity if you are not sure.
 
 ## What your customers will see
 

@@ -16,7 +16,7 @@ You choose which features your site offers to customers. You might want instant 
 
 1. Open **Help & Tools** in the admin menu, then **Setup Wizard**.
 2. Go to the step called **Choose your features**.
-3. Switch each feature on or off.
+3. Click the **On** or **Off** button beside each feature. The features are grouped as **Ways to win**, **Rewards** and **Wallet and money**.
 4. Click **Save** at the top of the wizard.
 
 ![The Choose your features step](/screenshots/setup-wizard-features.png)
@@ -48,7 +48,7 @@ The wallet and reward features also have switches in **Settings**, then **Busine
 
 ## What your customers will see
 
-Switching a feature off hides it on your live site. For example, with **Instant wins** off, customers do not see instant win panels on competition pages.
+The wizard says it plainly: anything you switch off is hidden from your website and customers, and nothing is deleted, so you can turn it back on later. For example, with **Instant wins** off, customers do not see instant win panels on competition pages.
 
 ## Tips
 

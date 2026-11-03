@@ -17,17 +17,20 @@ The Setup Wizard is a guided set of questions that sets up your site for you. It
 
 1. In the admin menu, open **Help & Tools**.
 2. Click **Setup Wizard**.
-3. Read the welcome screen, "Let's get your website ready", and start.
+3. Read the welcome screen, "Let's get your website ready". It says the wizard takes around 10 minutes and that you can change everything later.
+4. Click **Start setup**.
 
 ![The first screen of the Setup Wizard](/screenshots/setup-wizard-welcome.png)
 
 ## Save as you go
 
-You do not have to finish in one go. Click **Save** at the top of the wizard at any time. You will see "Saved", and your changes are live on your website straight away.
+You do not have to finish in one go. Click **Save** at the top of the wizard at any time. You will see "Saved", and your changes are live on your website straight away. Next to it is **Exit setup**, which takes you out of the wizard.
 
 ## Work through the steps
 
-Each step asks a few questions, then you move on to the next. The steps come in this order.
+Each step asks a few questions. The top of the screen shows where you are, for example "Step 10 of 13". Click **Continue** to move on. **Continue** stays greyed out until you have answered what the step needs.
+
+The steps come in this order.
 
 1. **Your business.** "First, tell us who you are."
 2. **Contact.** "How can customers reach you?"
