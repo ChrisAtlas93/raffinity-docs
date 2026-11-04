@@ -59,6 +59,19 @@ The message says **This customer cannot be deleted yet** and lists what to deal 
 - An order that is still being given its tickets.
 - An order that also entered a competition that has already been drawn.
 
+## When customers do it themselves
+
+Customers do not have to ask you. On **Account**, **Account Details**, a **Download your data** box gives them a zip of everything we hold about them, and a **Delete your account** box removes their personal details. Both ask for their password again, and deleting also asks them to type DELETE.
+
+A customer can delete their own account only when nothing is outstanding. If something is, they are told exactly what, in plain words:
+
+- Money in their Cash Wallet (they should withdraw it first) or Site Credit (they spend it, or ask you to remove it).
+- A withdrawal, order or prize that has not finished.
+- Tickets in a competition that has not been drawn yet.
+- A self-excluded or closed account. These cannot be deleted by the customer, so the protection stays in place. Contact them after the exclusion has ended if they still want it removed.
+
+Each download they make is recorded in the same list as yours, with the customer as the person who exported it. When a customer deletes their account they are emailed a record of it (the **Account Deleted** email under **Email**, **Notifications**), and everything is handled exactly like a deletion you do yourself: their records are kept without their personal details.
+
 ## What your customers will see
 
 A deleted customer can no longer sign in. Their records are kept for your accounts, under the "Deleted customer" name.

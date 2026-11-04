@@ -59,6 +59,7 @@ Click a section in the list, or in the preview. Its settings open on the right.
 
 - **Wording and pictures.** The section's text and images.
 - **Look.** Which template draws the section, if you want it to look different from the rest of the site. Changing the look updates your live site straight away.
+- **Spacing.** **Padding** (space inside the section) and **Margin** (space outside it), in pixels, for the top, right, bottom and left padding and the top and bottom margin. Leave a box empty to keep the section's own spacing. The most any side can take is 300 pixels. **Reset spacing** puts it back.
 - **When it shows.**
   - **Show this section on the live site.**
   - **Who sees it.**
@@ -99,6 +100,17 @@ The page lives at `/p/` followed by its name. To delete a page you made, use **D
 ## Change the look of the whole site
 
 The **Site** tab in the builder changes your template, colours, fonts and width for the whole site. It has no draft. **Apply to the live site** puts the change live at once, and **Undo my changes** reverts it. See [Choose your template, colours and logo](/your-website/template-colours-and-logo).
+
+## Change your header menu and footer links
+
+Lower down the **Site** tab, **Menus** lets you choose the links in your header menu and in the two link columns of your footer.
+
+1. Under **Header menu**, **Footer: competitions column** or **Footer: help column**, click **Edit these links**. Until you do, your template shows its own standard links.
+2. For each link, type the **text** (up to 30 characters) and choose where it **goes to**: one of your pages, or **Another address** for a page like `/p/my-page` or a full `https://` address.
+3. Use the arrows to reorder, the bin to remove, and **Add a link** (up to 8 in each list).
+4. Click **Save the menus**. This changes your live site straight away.
+
+**Use the standard links** sends a list back to your template's own links. The same lists are used by every template, so switching template keeps your menus. A link with no text is left out. The announcement bar and logo are still in the admin.
 
 ## What your customers will see
 

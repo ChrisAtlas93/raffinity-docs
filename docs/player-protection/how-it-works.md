@@ -23,7 +23,7 @@ Customers find these in their account, under **Spending Controls**.
 
 A customer who is self-excluded or closed cannot change their phone number, and a new registration with a phone number that belongs to one is refused.
 
-The platform also looks for the same person under different details. If a new account has the same date of birth as a self-excluded or closed account, together with the same phone number or the same postcode, it is let in but put under the same exclusion straight away. The customer is not told why. You are emailed (to the recipients of **Excluded Player Match** under **Email**, **Notifications**, or your contact email if none are set), and the account's spending controls history shows what matched. If it turns out to be a different person, an admin can remove the exclusion in the customer's spending controls, which takes effect after the 24 hour cooling-off. See [Change a customer's spending controls](/player-protection/spend-controls-and-welfare).
+The platform also looks for the same person under different details. If a new account has the same date of birth as a self-excluded or closed account, together with the same phone number or the same postcode, it is let in but put under the same exclusion straight away. The customer is not told why. You are emailed (to the recipients of **Excluded Player Match** under **Email**, **Notifications**, or to every admin if none are set), and the account's spending controls history shows what matched. If it turns out to be a different person, an admin can remove the exclusion in the customer's spending controls, which takes effect after the 24 hour cooling-off. See [Change a customer's spending controls](/player-protection/spend-controls-and-welfare).
 
 ### Raising a limit
 
