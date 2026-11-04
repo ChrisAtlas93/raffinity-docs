@@ -23,6 +23,8 @@ On your **Overview** page, the **Draws due** card in **Needs you** shows competi
 2. When the competition closes, by selling out or reaching its end time, the winner is drawn automatically a short while later using the provably fair draw.
 3. The winner is emailed, and you are emailed a summary.
 
+If the competition closed at its end time, a customer who was already paying by card when it ended has 5 minutes to finish. If any such payment is still open, the draw waits for it (never longer than those 5 minutes), and a payment confirmed in that time gets its tickets and is in the draw. If nothing is open, the draw starts straight away. A payment that only started after the end time, or is confirmed after the 5 minutes, is refunded. A competition that sold out has no waiting time. If you try to draw by hand during the wait, the draw screen tells you it is waiting for payments.
+
 If an automatic draw fails more than once, you are emailed an alert and can finish it yourself from the competition page.
 
 ## Close a competition early
