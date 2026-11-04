@@ -72,9 +72,9 @@ Set **Number of winners** on the competition's **Details** tab. A higher number 
 
 These fields are locked once a winner has been drawn.
 
-## The older Draw Winner button
+## The Draw Winner button
 
-**More actions** on a closed competition also has **Draw Winner**, an older method where a number is picked or typed in. Use the provably fair draw instead, so customers can check the result.
+**More actions** on a closed competition also has **Draw Winner**. It is only for a draw you ran somewhere else, for example live: type in the winning ticket number (or numbers, one per place), add a link to the recording and a note if you like. It no longer picks a winner for you. To let the platform pick, use the provably fair draw above, so customers can check the result.
 
 ## What your customers will see
 

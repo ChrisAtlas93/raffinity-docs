@@ -67,8 +67,10 @@ The code is valid for 10 minutes. Five wrong tries lock you out for 15 minutes, 
 ## Pay it
 
 1. Send the bank transfer from your own bank.
-2. Open the request, click **Mark paid**, add the payment reference if you want, and confirm.
-3. The customer is emailed to say it has been paid.
+2. Open the request and click **Mark paid**. Check **Amount sent (£)**, which starts as the amount they asked for (change it only if you sent a different amount), and enter the **Bank payment reference** from your transfer. Both are needed. Confirm.
+3. The customer is emailed to say it has been paid, for the amount you sent.
+
+The request then shows the amount sent and the reference in its history, and both appear in the exported list. Reports count the amount sent as money paid out.
 
 ## Reject a request
 
