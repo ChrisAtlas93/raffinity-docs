@@ -32,7 +32,7 @@ Click the date button at the top, for example **Last 7 days vs previous**. You c
 - **Today**, **Yesterday**, **Last 7 days**, **Last 30 days**, **Last 90 days**, **This month** or **Last month**.
 - A **Custom range**, with your own start and end dates.
 
-You can also choose what to compare against: the previous period, the same period last year, or nothing. Most figures show how they have changed against that comparison.
+You can also choose what to compare against: the previous period, the same period last year, or nothing. Most figures show how they have changed against that comparison. A range that starts on the 1st is compared with the same dates last month. While a period is still running, the comparison stops at the same time of day, so a morning is never set against a full day.
 
 The date range and filters stay in the page address as you move between pages, so you can share a link to exactly what you are looking at.
 
@@ -63,9 +63,15 @@ Click **Export** at the top, or **CSV** on a table, to download the figures.
 
 At the top, a counter shows how many orders came in during the last hour.
 
+## Report emails and saved files
+
+Choose **Schedule email** on any page, or **New report email** in the **Reports Library**. Pick a name, the page to link to, how often and which staff get it. Emails go out at 07:00: **Daily** covers yesterday, **Weekly** goes on Mondays for the last 7 days, and **Monthly** goes on the 1st for last month. Each email has the headline figures and a link to the live page. It can only go to staff who can open the reports.
+
+Any table can be saved with its **CSV** button. On **Sales**, **All orders CSV** saves every order in the date range. Every file saved is listed under **Recent exports** in the Reports Library, with who saved it and when, because some hold customer emails.
+
 ## What is not built yet
 
-Some pages and cards are marked **COMING SOON**. Scheduled report emails, export history, per-person access, KPI targets and some report cards are on the way. The **Schedule email** button does not send anything yet.
+Some pages and cards are marked **COMING SOON**. Per-person access, KPI targets, connections, import history, **Expected withdrawals** and **Integrity** are on the way.
 
 ## What your customers will see
 
@@ -80,7 +86,7 @@ Nothing. Reports are for you only.
 ## Common questions
 
 **Why are my figures lower than the admin shows?**
-Reports can lag by a few minutes, and a comparison covers a full period, so it looks ahead of a period that is not yet complete.
+Reports can lag by a few minutes.
 
 **Why can I not open Reports?**
 It is for admins only.

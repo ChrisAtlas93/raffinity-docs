@@ -27,7 +27,9 @@ Revenue, orders and refunds.
 - **Revenue by channel**, and **New vs returning customers**. Purchases that started from a push notification show as **Push notifications**.
 - **Sales by device**: orders and revenue for **App** (your installed app), **Mobile**, **Tablet** and **Desktop**. Orders with no recorded visit show as **Unknown**.
 - Sales by hour and weekday, top competitions by revenue, and tables for card payments, card refunds, chargebacks and all orders placed.
-- **Profit and margin** is coming soon. It needs the **Prize cost** filled in on each competition.
+- **Profit and margin**, added up over the competitions drawn in the date range. Competitions with no **Prize cost** are left out and counted. See [how profit is worked out](#how-profit-is-worked-out).
+- **Cash taken**, the card and PayPal part of revenue. Site Credit is not new money, so it is not in this figure.
+- **Money by day**: orders, revenue, cash taken, Site Credit spent, refunds, top-ups and withdrawals paid for each day. Card fees are not included.
 
 ![The Sales report](/screenshots/reports-sales.png)
 
@@ -52,7 +54,7 @@ A league table of your competitions, as cards or a table, with what is drawing s
 
 ## Customers
 
-Growth, value and segments: **Segments**, **Top customers**, the **best channels by customer value**, **Cohort retention**, **Countries and devices** and **Account restrictions**.
+Growth, value and segments: **Segments**, **Top customers**, the **best channels by customer value**, **Cohort retention**, **Countries and devices**, **Player welfare** and **Account restrictions**. **Player welfare** shows counts only, such as open red and amber flags, breaks and self-exclusions. Cases are worked in the admin.
 
 ![The Customers report](/screenshots/reports-customers.png)
 
@@ -70,13 +72,13 @@ Instant wins, sets and mini games: **Prizes by type**, **Payout vs revenue by co
 
 ## Promotions
 
-How your offers perform: **Promo codes**, **Automatic offers** and **Early Bird**. **Multibuy offers** is coming soon.
+How your offers perform: **Promo codes**, **Automatic offers**, **Early Bird** and **Multibuy offers**.
 
 ![The Promotions report](/screenshots/reports-promotions.png)
 
 ## Reports Library
 
-Your **Saved views**, **Scheduled** reports and **Templates**. Saved views are kept in your browser only. Scheduled reports and export history are coming soon.
+Your **Saved views**, **Scheduled** reports and **Templates**. Saved views are kept in your browser only. **Scheduled** lists your report emails, and **Recent exports** lists every file saved from the reports.
 
 ## Settings
 
@@ -90,12 +92,18 @@ Nothing. Reports are for you only.
 
 - Check **Sales** against your **Overview** if a number surprises you.
 - Look at **Marketing** after a campaign ends, not while it is still running.
-- Fill in **Prize cost** on competitions to unlock profit figures when they arrive.
+- Fill in **Prize cost** on competitions to see their profit. Include the cost of any physical instant win prizes.
 
 ## Common questions
 
 **What is the difference between Revenue and Net revenue?**
 Net revenue is revenue after refunds.
+
+<a id="how-profit-is-worked-out"></a>
+**How is profit worked out?**
+Revenue after refunds, less free Site Credit spent, cash instant wins and the **Prize cost**. Instant wins paid as Site Credit count when that credit is spent. Card fees are not included.
+
+Free Site Credit spent is an estimate. Site Credit is one balance, so a pound spent cannot be traced to a top-up or a bonus. The report takes the Site Credit spent on the competition and multiplies it by the share of all Site Credit that was given away free.
 
 **Why does a page say Coming soon?**
 That part is not built yet. The rest of the page works.
