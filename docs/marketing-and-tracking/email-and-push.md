@@ -52,6 +52,10 @@ Push notifications let customers who use your installed app choose to hear about
 
 The **Status** area shows whether push is on, how many customers turned it on, and the last successful send. Notifications go to customers by their account, so someone who signs in on a new phone only needs to turn push on again.
 
+### See what a notification sold
+
+Every link in a notification is tagged automatically. The site remembers the last campaign link a customer arrived with for 30 days, so an order they place after tapping a notification is counted against **Push notifications** in your reports, even if they buy in a later visit, unless they arrive through a different campaign link first. A plain visit without a campaign link does not replace it. Open the Command Centre, then **Sales** for revenue by channel, or **Marketing** for the **Sources** table, where the source is `onesignal`, the medium is `push` and the campaign names the notification (for example `closing_12` for competition 12 closing soon, or `draw_12` for its draw result). You can also filter the **Orders** list by the **Push notifications** channel.
+
 Push is new, so please check with Raffinity before you rely on it.
 
 ## What your customers will see

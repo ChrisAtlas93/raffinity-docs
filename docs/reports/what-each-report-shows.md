@@ -24,7 +24,8 @@ Revenue, orders and refunds.
 - Cards for **Revenue**, **Net revenue**, **Orders**, **Tickets sold**, **Avg order value** and **Refunds**.
 - **Revenue and orders by day.**
 - **Where the money came from**, the payment mix.
-- **Revenue by channel**, and **New vs returning customers**.
+- **Revenue by channel**, and **New vs returning customers**. Purchases that started from a push notification show as **Push notifications**.
+- **Sales by device**: orders and revenue for **App** (your installed app), **Mobile**, **Tablet** and **Desktop**. Orders with no recorded visit show as **Unknown**.
 - Sales by hour and weekday, top competitions by revenue, and tables for card payments, card refunds, chargebacks and all orders placed.
 - **Profit and margin** is coming soon. It needs the **Prize cost** filled in on each competition.
 
