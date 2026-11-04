@@ -154,6 +154,7 @@ In the **Schedule & Status** panel on the right of the form:
 1. Set the **Start time**, when ticket sales begin. Required.
 2. Set the **End time**, when ticket sales end. Required. It must be after the start time.
 3. Set the **Draw date**, when you will draw the winner. Required. It can be the same as the end time.
+   - If you will run the draw live, add the **Live draw link (optional)**, a Facebook, YouTube or other `https://` address, and **Live draw starts (optional)**. See [Close a competition and draw the winner](/draws-and-winners/run-a-draw#watch-the-draw-live).
 4. Choose the **Status**.
 
 ![The Schedule & Status panel](/screenshots/schedule-and-status.png)

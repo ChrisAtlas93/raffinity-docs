@@ -19,6 +19,8 @@ Open **Settings**, then **Business & Site Settings**. The page is called **Site 
 
 **Company & Footer.** Your company name and registration number, shown in your footer. Same guide.
 
+**Customer self-service.** A switch, off by default, that lets customers download their own data and delete their own account from their account page. See [Export or delete a customer's data](/customers/export-and-delete#when-customers-do-it-themselves).
+
 **Announcement bar.** Up to four short lines across the top of your site. Same guide.
 
 **Free Postal Entry Route.** Your postal address and your free entry terms. See [Set up free postal entry](/competitions/free-postal-entry).

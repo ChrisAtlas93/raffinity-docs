@@ -27,6 +27,21 @@ If the competition closed at its end time, a customer who was already paying by 
 
 If an automatic draw fails more than once, you are emailed an alert and can finish it yourself from the competition page.
 
+## Watch the draw live
+
+If you run your draw live, for example on Facebook or YouTube, give customers the link:
+
+1. Open the competition and, in the **Schedule & Status** panel, fill in **Live draw link (optional)** with the `https://` address of your live video, and **Live draw starts (optional)** with the time you go live.
+2. Save the competition.
+
+Customers then see a strip at the top of the competition page, and a button on that draw in the app's **Tickets** tab:
+
+- Before the start: **Live draw on** the date and time, with **Where to watch**.
+- From the start until the draw is done (or three hours, whichever is first): **The live draw is on now**, with **Watch live**.
+- Afterwards: **Watch the draw**, so the link doubles as the place to watch it back.
+
+When the live draw starts, customers who hold tickets in it, or follow it, and have draw alerts switched on in the app get one notification, "Live draw now". The link for the draw itself is still separate from the **Link to the draw recording** you can add when you type in a winner you drew elsewhere.
+
 ## Close a competition early
 
 1. Open the competition, click **More actions**, then **Close Now**. You can also use **Close now** in the row menu on the **Competitions** list.

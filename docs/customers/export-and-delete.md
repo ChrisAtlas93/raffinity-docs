@@ -12,6 +12,7 @@ Customers can ask to see the data you hold about them, or to have it removed. Yo
 - Exporting needs the switch "Export everything held about a customer (a personal data access request) as a zip file". Admins always have it. A moderator needs the owner to switch it on.
 - Deleting a customer who has history needs permission to anonymise customers, cancel orders and adjust wallets. Admins have all three.
 - Deleting cannot be undone. Read this guide first.
+- If the customer has self-excluded or closed their account, deleting them removes the phone number and details used to recognise them, so they could register again during their exclusion. The delete message warns you in red before you go on.
 
 ## Export a customer's personal data
 
@@ -61,7 +62,9 @@ The message says **This customer cannot be deleted yet** and lists what to deal 
 
 ## When customers do it themselves
 
-Customers do not have to ask you. On **Account**, **Account Details**, a **Download your data** box gives them a zip of everything we hold about them, and a **Delete your account** box removes their personal details. Both ask for their password again, and deleting also asks them to type DELETE.
+This is off until you switch it on. Open **Settings**, **Business & Site Settings**, the **Site** tab, find **Customer self-service**, switch on **Let customers download their data and delete their own account** and click **Save Settings**. Only admins can change it. Until it is on, customers do not see the boxes below and the platform refuses the requests.
+
+Once it is on, customers do not have to ask you. On **Account**, **Account Details**, a **Download your data** box gives them a zip of everything we hold about them, and a **Delete your account** box removes their personal details. Both ask for their password again, and deleting also asks them to type DELETE.
 
 A customer can delete their own account only when nothing is outstanding. If something is, they are told exactly what, in plain words:
 
