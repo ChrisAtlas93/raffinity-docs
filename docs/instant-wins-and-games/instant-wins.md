@@ -61,7 +61,7 @@ For each prize, **Winning tickets** has three choices:
 Use the buttons above the table:
 
 - **New instant win** adds one prize.
-- **Bulk Add** adds several at once. For each, give the **Prize Name**, **Value (£)**, **Number of Tickets**, **Prize type**, and any alternatives. The platform picks random unsold tickets for you.
+- **Bulk Add** adds several at once. For each, give the **Prize Name**, **Value (£)**, **Number of Tickets**, **Prize type**, and any alternatives. The platform picks random unsold tickets for you. To release a prize later instead, switch on **Schedule this instant win** on its row and set **Go live at**, **Expires at** and the **Number of ticket numbers to assign at launch**. See [Release instant wins later](#release-instant-wins-later).
 - **Add Jackpot** is covered in [Add a jackpot](/instant-wins-and-games/jackpots).
 
 ![The Bulk Add Instant Wins form](/screenshots/instant-win-bulk-add.png)
