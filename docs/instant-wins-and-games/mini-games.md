@@ -28,7 +28,7 @@ A mini game gives customers a fun way to reveal their instant win results, inste
    - Balloon Pop
    - Treasure Dig
    - Penalty Kick
-4. Leave **Show "Try me now!" demo** on if you want a free demo on the competition page. It is clearly labelled, no real prizes are won and nothing is saved.
+4. Switch on **Show "Try me now!" demo** if you want a free demo on the competition page. It starts off on every new competition. It is clearly labelled, no real prizes are won and nothing is saved.
 5. Optionally choose a **Theme**. Leave it as **Built-in look** to use the standard art.
 6. If you chose Flip the Tiles, choose the **Tile backs**: **Jade (green stone)** or **Your site colour**.
 7. Click **Save changes**.
