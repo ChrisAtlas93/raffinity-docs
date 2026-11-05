@@ -60,13 +60,17 @@ Growth, value and segments: **Segments**, **Top customers**, the **best channels
 
 ## Wallet and Credit
 
-The money you owe customers: **Money in and out**, what was issued and spent by category, **Largest balances**, the **Payout queue** and **Held and at risk**. **Expected withdrawals** is coming soon.
+The money you owe customers: **Money in and out**, what was issued and spent by category, **Largest balances**, the **Payout queue** and **Held and at risk**.
 
 ![The Wallet and Credit report](/screenshots/reports-wallet.png)
 
 ## Games and Wins
 
-Instant wins, sets and mini games: **Prizes by type**, **Payout vs revenue by competition**, **Recent wins** and **Collect sets**. **Integrity** is coming soon.
+Instant wins, sets and mini games: **Prizes by type**, **Payout vs revenue by competition**, **Recent wins**, **Collect sets** and **Integrity**.
+
+**Integrity** checks wins against your odds every night. It lists any player who has won far more often than their tickets should allow, and any competition where far more or far fewer prizes have gone than the tickets sold would suggest. Only very rare results appear, around 1 in 100,000 or rarer. Scheduled prizes are left out.
+
+An unlikely result isn't proof of wrongdoing. With enough players, someone will get lucky. Use the list to decide what to look into, and never hold a prize or accuse anyone because of it alone. Nothing happens to a customer automatically. Click a row to open the customer or competition, then write what you found and mark it as reviewed. It only comes back if the result becomes much rarer.
 
 ![The Games and Wins report](/screenshots/reports-games.png)
 
@@ -82,7 +86,7 @@ Your **Saved views**, **Scheduled** reports and **Templates**. Saved views are k
 
 ## Settings
 
-A place for imports, connections, KPI targets, access and your data and brand. Most of it is coming soon.
+A place for imports, connections, access and your data and brand. **Import history** lists your last 50 ad spend CSV imports. Connections is coming soon.
 
 ## What your customers will see
 

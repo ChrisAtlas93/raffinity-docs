@@ -71,7 +71,7 @@ Any table can be saved with its **CSV** button. On **Sales**, **All orders CSV**
 
 ## What is not built yet
 
-Some pages and cards are marked **COMING SOON**. Per-person access, KPI targets, connections, import history, **Expected withdrawals** and **Integrity** are on the way.
+**Connections** is marked **COMING SOON** and is on the way.
 
 ## What your customers will see
 
