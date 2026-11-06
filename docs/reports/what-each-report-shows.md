@@ -96,7 +96,7 @@ Nothing. Reports are for you only.
 
 - Check **Sales** against your **Overview** if a number surprises you.
 - Look at **Marketing** after a campaign ends, not while it is still running.
-- Fill in **Prize cost** on competitions to see their profit. Include the cost of any physical instant win prizes.
+- Fill in **Prize cost** on competitions to see their profit. Add **Cost to you** on physical instant win prizes so their cost comes off when they are won. Enter 0 if the cost is already in the competition's **Prize cost**.
 
 ## Common questions
 
@@ -105,7 +105,7 @@ Net revenue is revenue after refunds.
 
 <a id="how-profit-is-worked-out"></a>
 **How is profit worked out?**
-Revenue after refunds, less free Site Credit spent, cash instant wins and the **Prize cost**. Instant wins paid as Site Credit count when that credit is spent. Card fees are not included.
+Revenue after refunds, less free Site Credit spent, cash instant wins, the cost of physical instant wins won and the **Prize cost**. Instant wins paid as Site Credit count when that credit is spent. Card fees are not included.
 
 Free Site Credit spent is an estimate. Site Credit is one balance, so a pound spent cannot be traced to a top-up or a bonus. The report takes the Site Credit spent on the competition and multiplies it by the share of all Site Credit that was given away free.
 
